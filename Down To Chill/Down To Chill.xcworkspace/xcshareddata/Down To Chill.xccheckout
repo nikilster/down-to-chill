@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F569FD6E-BCF4-48BA-9B1C-0807F31EA13F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Down To Chill</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>06649D6344CAD10F700D3D9F2435D9F2B4A63C1E</key>
+		<string>github.com:nikilster/down-to-chill.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Down To Chill/Down To Chill.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>06649D6344CAD10F700D3D9F2435D9F2B4A63C1E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:nikilster/down-to-chill.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>06649D6344CAD10F700D3D9F2435D9F2B4A63C1E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>06649D6344CAD10F700D3D9F2435D9F2B4A63C1E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>down-to-chill</string>
+		</dict>
+	</array>
+</dict>
+</plist>
