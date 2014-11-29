@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Down To Chill": {
+            "applicationId": "Z9tCcbANq4NTxDFhc9tehNIQCqXNAhBH3WZAVAj5", 
+            "masterKey": "aCWsTY0EPa1MM1tsYVlsGz59Gz6nGCCeGyXrsXoX"
+        }, 
+        "_default": {
+            "link": "Down To Chill"
+        }
+    }
+}
