@@ -15,6 +15,8 @@
 		90A020101A2A72CB006CCEFB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90A0200F1A2A72CB006CCEFB /* Images.xcassets */; };
 		90A020131A2A72CB006CCEFB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 90A020111A2A72CB006CCEFB /* LaunchScreen.xib */; };
 		90A0201F1A2A72CB006CCEFB /* Down_To_ChillTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A0201E1A2A72CB006CCEFB /* Down_To_ChillTests.m */; };
+		90A020361A2A9E14006CCEFB /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A020351A2A9E14006CCEFB /* LoginViewController.m */; };
+		90A020391A2AA025006CCEFB /* DTCHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A020381A2AA025006CCEFB /* DTCHelper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +45,10 @@
 		90A020181A2A72CB006CCEFB /* Down To ChillTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Down To ChillTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90A0201D1A2A72CB006CCEFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90A0201E1A2A72CB006CCEFB /* Down_To_ChillTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Down_To_ChillTests.m; sourceTree = "<group>"; };
+		90A020341A2A9E14006CCEFB /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		90A020351A2A9E14006CCEFB /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		90A020371A2AA025006CCEFB /* DTCHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTCHelper.h; sourceTree = "<group>"; };
+		90A020381A2AA025006CCEFB /* DTCHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTCHelper.m; sourceTree = "<group>"; };
 		9128F6F0A0344B62503AD312 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -90,6 +96,10 @@
 			children = (
 				90A020061A2A72CB006CCEFB /* AppDelegate.h */,
 				90A020071A2A72CB006CCEFB /* AppDelegate.m */,
+				90A020341A2A9E14006CCEFB /* LoginViewController.h */,
+				90A020351A2A9E14006CCEFB /* LoginViewController.m */,
+				90A020371A2AA025006CCEFB /* DTCHelper.h */,
+				90A020381A2AA025006CCEFB /* DTCHelper.m */,
 				90A020091A2A72CB006CCEFB /* ViewController.h */,
 				90A0200A1A2A72CB006CCEFB /* ViewController.m */,
 				90A0200C1A2A72CB006CCEFB /* Main.storyboard */,
@@ -278,9 +288,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90A020361A2A9E14006CCEFB /* LoginViewController.m in Sources */,
 				90A0200B1A2A72CB006CCEFB /* ViewController.m in Sources */,
 				90A020081A2A72CB006CCEFB /* AppDelegate.m in Sources */,
 				90A020051A2A72CB006CCEFB /* main.m in Sources */,
+				90A020391A2AA025006CCEFB /* DTCHelper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
