@@ -1,0 +1,8 @@
+Finish script to parse and save the phone number
+Friend the user to anyone they should be friends with
+Query to get the user on the client side
+Decide the format of saving contacts
+Look up how to create the parse objects (for defining the relationships)
+Get the contacts from the address book
+
+Design the UI
